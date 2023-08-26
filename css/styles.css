@@ -17,16 +17,16 @@
 }
 
 .vaneylore{
-    margin-bottom: 100px;
+    margin-bottom: 70px;
 }
 
 section.cuenta-regresiva{
     text-align: center;
-    padding-top: 10px;
-    padding-bottom: 10px;
+    padding-top: 20px;
+    padding-bottom: 20px;
     background-color: #EED48F;
     height: fit-content;
-    border-radius: 30px;
+    border-radius: 10px;
   }
 section.cuenta-regresiva p{
 color: white;
@@ -42,19 +42,18 @@ color: white;
 
 section.vestimenta{
     text-align: center;
-    padding: 70px 0 70px;
-    border-radius: 30px;
+    padding: 10px 0 10px;
+    border-radius: 10px;
     background-color: #EED48F;
   }
   
-section.vestimenta h2 {
+section.vestimenta h3 {
     text-align: center;
-    margin-bottom: 25px;
     color: white;
 }
 section.vestimenta p {
     text-align: center;
-    margin-bottom: 25px;
+    margin-bottom: 5px;
     color: white;
 }
 
@@ -84,7 +83,7 @@ section.informacion .columna p{
 
 section.informacion .btn{
     text-decoration: none;
-    color: #F9FFD6;
+    color: white;
     padding: 10px 40px;
     border-radius: 30px;
     background-color: #EED48F;
@@ -98,7 +97,5 @@ section.informacion .btn:hover{
 }
  
 section.informacion .rounded{
-    margin: 10px 40px;
-    height:  40%;
-    width:  40%;
+    max-height: 500px;
 }
