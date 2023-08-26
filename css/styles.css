@@ -1,0 +1,104 @@
+.body{
+    background-color: #F9FFD6;
+}
+
+
+.contador{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.contador div{
+    flex-basis: 100px;
+}
+.contador div p{
+    font-size: 30px;
+    margin-bottom: -10px;
+}
+
+.vaneylore{
+    margin-bottom: 100px;
+}
+
+section.cuenta-regresiva{
+    text-align: center;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    background-color: #EED48F;
+    height: fit-content;
+    border-radius: 30px;
+  }
+section.cuenta-regresiva p{
+color: white;
+}
+section.cuenta-regresiva span{
+color: white;
+}
+section.cuenta-regresiva h3{
+color: white;
+}
+
+
+
+section.vestimenta{
+    text-align: center;
+    padding: 70px 0 70px;
+    border-radius: 30px;
+    background-color: #EED48F;
+  }
+  
+section.vestimenta h2 {
+    text-align: center;
+    margin-bottom: 25px;
+    color: white;
+}
+section.vestimenta p {
+    text-align: center;
+    margin-bottom: 25px;
+    color: white;
+}
+
+section.informacion{
+padding: 70px 0 40px;
+}
+
+section.informacion .columna{
+text-align: center;
+padding: 15px;
+}
+
+section.informacion .columna h4{
+margin-top: 15px;
+margin-bottom: 20px;
+text-transform: uppercase;
+color: #DEBD64;
+}
+
+section.informacion .columna p{
+    margin-top: 15px;
+    margin-bottom: 10px;
+    text-transform: uppercase;
+    color: #59513D;
+}
+
+
+section.informacion .btn{
+    text-decoration: none;
+    color: #F9FFD6;
+    padding: 10px 40px;
+    border-radius: 30px;
+    background-color: #EED48F;
+    text-transform: uppercase;
+}
+
+section.informacion .btn:hover{
+    background-color: #ffffff;
+    color: #EED48F;
+    border-color: #EED48F;
+}
+ 
+section.informacion .rounded{
+    margin: 10px 40px;
+    height:  40%;
+    width:  40%;
+}
