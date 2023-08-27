@@ -37,7 +37,7 @@ section.cuenta-regresiva{
     text-align: center;
     padding-top: 20px;
     padding-bottom: 20px;
-    background-color: #EED48F;
+    background-color: #DDC190;
     height: fit-content;
     border-radius: 10px;
   }
@@ -57,7 +57,7 @@ section.vestimenta{
     text-align: center;
     padding: 10px 0 10px;
     border-radius: 10px;
-    background-color: #EED48F;
+    background-color: #DDC190;
   }
   
 section.vestimenta h3 {
@@ -85,7 +85,7 @@ section.informacion .columna h4{
 margin-top: 15px;
 margin-bottom: 20px;
 text-transform: uppercase;
-color: #DEBD64;
+color: #DDC190;
 }
 
 section.informacion .columna p{
@@ -101,14 +101,14 @@ section.informacion .btn{
     color: white;
     padding: 10px 40px;
     border-radius: 30px;
-    background-color: #EED48F;
+    background-color: #DDC190;
     text-transform: uppercase;
 }
 
 section.informacion .btn:hover{
     background-color: #ffffff;
-    color: #EED48F;
-    border-color: #EED48F;
+    color: #DDC190;
+    border-color: #DDC190;
 }
  
 section.informacion .rounded{
@@ -130,7 +130,7 @@ section.regalos .columna h4{
     margin-top: 15px;
     margin-bottom: 20px;
     text-transform: uppercase;
-    color: #DEBD64;
+    color: #DDC190;
 }
 
 section.regalos .columna p{
@@ -146,14 +146,14 @@ section.regalos .btn{
     color: white;
     padding: 10px 40px;
     border-radius: 30px;
-    background-color: #EED48F;
+    background-color: #DDC190;
     text-transform: uppercase;
 }
 
 section.regalos .btn:hover{
     background-color: #ffffff;
-    color: #EED48F;
-    border-color: #EED48F;
+    color: #DDC190;
+    border-color: #DDC190;
 }
     
 section.regalos .rounded{
@@ -168,7 +168,7 @@ section.asistencia{
     padding: 25px 0 25px;
     margin-top: 20px;
     border-radius: 10px;
-    background-color: #EED48F;
+    background-color: #DDC190;
   }
   
 section.asistencia h3 {
@@ -183,7 +183,7 @@ section.asistencia p {
 
 section.asistencia .btn{
     text-decoration: none;
-    color: #EED48F;
+    color: #DDC190;
     padding: 10px 40px;
     border-radius: 30px;
     background-color: #ffffff;
@@ -191,7 +191,7 @@ section.asistencia .btn{
 }
 
 section.asistencia .btn:hover{
-    background-color: #EED48F;
+    background-color: #DDC190;
     color: #ffffff;
     border-color: #ffffff;
 }
@@ -207,7 +207,7 @@ section.instagram{
     text-align: center;
     padding: 10px 0 10px;
     border-radius: 10px;
-    background-color: #EED48F;
+    background-color: #DDC190;
   }
   
 section.instagram h3 {
