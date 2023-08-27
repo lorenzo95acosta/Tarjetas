@@ -1,6 +1,6 @@
 .fondo{
     
-    background-image: url("../assets/fondo2.jpg");
+    background-image: url("../assets/fondo3.png");
     background-position: center;
     background-repeat: repeat-y;
     background-size: cover;
@@ -197,5 +197,29 @@ section.asistencia .btn:hover{
 }
     
 section.asistencia .rounded{
+    max-height: 100px;
+}
+
+
+
+
+section.instagram{
+    text-align: center;
+    padding: 10px 0 10px;
+    border-radius: 10px;
+    background-color: #EED48F;
+  }
+  
+section.instagram h3 {
+    text-align: center;
+    color: white;
+}
+section.instagram p {
+    text-align: center;
+    margin-bottom: 5px;
+    color: white;
+}
+
+section.instagram .rounded{
     max-height: 100px;
 }
