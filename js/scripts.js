@@ -12,7 +12,7 @@
 
 // Cuenta Regresiva:
 
-var fechaCasamiento = new Date("2023-12-02").getTime();
+var fechaCasamiento = new Date("2023-12-02 19:00:00").getTime();
 
 var x = setInterval(function () {
   var hoy = new Date().getTime();

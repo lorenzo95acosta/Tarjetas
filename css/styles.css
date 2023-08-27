@@ -57,6 +57,8 @@ section.vestimenta p {
     color: white;
 }
 
+
+
 section.informacion{
 padding: 70px 0 40px;
 }
@@ -98,4 +100,89 @@ section.informacion .btn:hover{
  
 section.informacion .rounded{
     max-height: 500px;
+}
+
+
+
+section.regalos{
+    padding: 70px 0 40px;
+}
+
+section.regalos .columna{
+    text-align: center;
+    padding: 15px;
+}
+
+section.regalos .columna h4{
+    margin-top: 15px;
+    margin-bottom: 20px;
+    text-transform: uppercase;
+    color: #DEBD64;
+}
+
+section.regalos .columna p{
+    margin-top: 15px;
+    margin-bottom: 10px;
+    text-transform: uppercase;
+    color: #59513D;
+}
+
+
+section.regalos .btn{
+    text-decoration: none;
+    color: white;
+    padding: 10px 40px;
+    border-radius: 30px;
+    background-color: #EED48F;
+    text-transform: uppercase;
+}
+
+section.regalos .btn:hover{
+    background-color: #ffffff;
+    color: #EED48F;
+    border-color: #EED48F;
+}
+    
+section.regalos .rounded{
+    max-height: 100px;
+}
+
+
+
+
+section.asistencia{
+    text-align: center;
+    padding: 25px 0 25px;
+    margin-top: 20px;
+    border-radius: 10px;
+    background-color: #EED48F;
+  }
+  
+section.asistencia h3 {
+    text-align: center;
+    color: white;
+}
+section.asistencia p {
+    text-align: center;
+    margin-bottom: 5px;
+    color: white;
+}
+
+section.asistencia .btn{
+    text-decoration: none;
+    color: #EED48F;
+    padding: 10px 40px;
+    border-radius: 30px;
+    background-color: #ffffff;
+    text-transform: uppercase;
+}
+
+section.asistencia .btn:hover{
+    background-color: #EED48F;
+    color: #ffffff;
+    border-color: #ffffff;
+}
+    
+section.asistencia .rounded{
+    max-height: 100px;
 }
