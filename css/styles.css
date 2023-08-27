@@ -8,6 +8,13 @@
     /*background-color: #F9FFD6;*/
 }
 
+.vidrio{
+    background: rgba(238,212,143, 0.2);
+    border-radius: 20px;
+    width: fit-content;
+    padding: 10px;
+}
+
 
 .contador{
     display: flex;
