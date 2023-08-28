@@ -5,7 +5,7 @@
     background-repeat: repeat-y;
     background-size: cover;
       
-    /*background-color: #F9FFD6;*/
+    /*background-color: #BC9858;*/
 }
 
 .vidrio{
@@ -37,7 +37,7 @@ section.cuenta-regresiva{
     text-align: center;
     padding-top: 20px;
     padding-bottom: 20px;
-    background-color: #DDC190;
+    background-color: #BC9858;
     height: fit-content;
     border-radius: 10px;
   }
@@ -57,7 +57,7 @@ section.vestimenta{
     text-align: center;
     padding: 10px 0 10px;
     border-radius: 10px;
-    background-color: #DDC190;
+    background-color: #BC9858;
   }
   
 section.vestimenta h3 {
@@ -84,8 +84,7 @@ padding: 15px;
 section.informacion .columna h4{
 margin-top: 15px;
 margin-bottom: 20px;
-text-transform: uppercase;
-color: #DDC190;
+color: #BC9858;
 }
 
 section.informacion .columna p{
@@ -101,14 +100,14 @@ section.informacion .btn{
     color: white;
     padding: 10px 40px;
     border-radius: 30px;
-    background-color: #DDC190;
+    background-color: #BC9858;
     text-transform: uppercase;
 }
 
 section.informacion .btn:hover{
     background-color: #ffffff;
-    color: #DDC190;
-    border-color: #DDC190;
+    color: #BC9858;
+    border-color: #BC9858;
 }
  
 section.informacion .rounded{
@@ -130,7 +129,7 @@ section.regalos .columna h4{
     margin-top: 15px;
     margin-bottom: 20px;
     text-transform: uppercase;
-    color: #DDC190;
+    color: #BC9858;
 }
 
 section.regalos .columna p{
@@ -146,14 +145,14 @@ section.regalos .btn{
     color: white;
     padding: 10px 40px;
     border-radius: 30px;
-    background-color: #DDC190;
+    background-color: #BC9858;
     text-transform: uppercase;
 }
 
 section.regalos .btn:hover{
     background-color: #ffffff;
-    color: #DDC190;
-    border-color: #DDC190;
+    color: #BC9858;
+    border-color: #BC9858;
 }
     
 section.regalos .rounded{
@@ -168,7 +167,7 @@ section.asistencia{
     padding: 25px 0 25px;
     margin-top: 20px;
     border-radius: 10px;
-    background-color: #DDC190;
+    background-color: #BC9858;
   }
   
 section.asistencia h3 {
@@ -183,7 +182,7 @@ section.asistencia p {
 
 section.asistencia .btn{
     text-decoration: none;
-    color: #DDC190;
+    color: #BC9858;
     padding: 10px 40px;
     border-radius: 30px;
     background-color: #ffffff;
@@ -191,7 +190,7 @@ section.asistencia .btn{
 }
 
 section.asistencia .btn:hover{
-    background-color: #DDC190;
+    background-color: #BC9858;
     color: #ffffff;
     border-color: #ffffff;
 }
@@ -207,7 +206,7 @@ section.instagram{
     text-align: center;
     padding: 10px 0 10px;
     border-radius: 10px;
-    background-color: #DDC190;
+    background-color: #BC9858;
   }
   
 section.instagram h3 {
