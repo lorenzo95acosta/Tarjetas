@@ -1,6 +1,6 @@
 .fondo{
     
-    background-image: url("../assets/fondo4.png");
+    background-image: url("../assets/fondo5.png");
     background-position: center;
     background-repeat: repeat-y;
     background-size: cover;
@@ -9,7 +9,7 @@
 }
 
 .vidrio{
-    background: rgba(255,255,255, 0.8);
+    background: rgba(255,255,255, 0.6);
     border-radius: 20px;
     width: fit-content;
     padding: 10px 0 10px;
