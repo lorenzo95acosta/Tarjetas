@@ -1,15 +1,3 @@
-// // Instagram parallax
-// $(".parallax-instagram").parallax({
-//   imageSrc: "assets/img/instagram.jpg",
-// });
-
-// // Portada parallax
-// $(".parallax-portada").parallax({
-//   imageSrc: "assets/img/portada.jpg",
-// });
-
-// // ----------------------
-
 // Cuenta Regresiva:
 
 var fechaCasamiento = new Date("2023-12-02 19:00:00").getTime();
