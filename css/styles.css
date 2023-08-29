@@ -37,8 +37,7 @@
 
 section.cuenta-regresiva{
     text-align: center;
-    padding-top: 20px;
-    padding-bottom: 20px;
+    padding: 20px;
     background-color: #BC9858;
     height: fit-content;
     font-family: Candara,Calibri,Segoe,Segoe UI,Optima,Arial,sans-serif;
