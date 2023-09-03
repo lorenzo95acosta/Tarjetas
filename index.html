@@ -15,6 +15,10 @@
 </head>
 <body class="fondo">
 
+  <audio id="audio" autoplay loop>
+    <source src="assets/musica.mp3" type="audio/mp3">
+  </audio>
+  
   <div class="container vidrio">
     <div class="container p-4 text-center">
       <div class="row">
@@ -23,11 +27,12 @@
           <h3 style="color: #BC9858; font-weight: bold; font-size: 250%;">¡Nos casamos!</h3>
           <br>
           <h1 style="color: #BC9858;">2 de Diciembre de 2023, 19:00 hs</h1>
-          <br>
         </div>
       </div>
     </div>
-  </div>
+    <img id="audioPlay" src="assets/play.png" alt="Play" onclick="playAudio()" class="AudioBTN">
+    <img id="audioPausa" src="assets/pausa.png" alt="Pausa" onclick="pauseAudio()" class="AudioBTN esconder">
+  </div>  
   
   <!--CONTADOR - FECHA-->
     <section class="cuenta-regresiva">
