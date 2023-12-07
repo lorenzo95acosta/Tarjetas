@@ -3,7 +3,7 @@
 var fechaCasamiento = new Date("2023-12-02 19:00:00").getTime();
 
 var x = setInterval(function () {
-  var hoy = new Date().getTime();
+  var hoy = new Date("2023-12-02 20:00:00").getTime();
 
   var faltan = fechaCasamiento - hoy;
 
@@ -19,7 +19,7 @@ var x = setInterval(function () {
 
   if (faltan < 0) {
     clearInterval(x);
-    document.getElementById("contador").innerHTML = "¡Llegó el día!";
+    document.getElementById("contador").innerHTML = "¡Muchas gracias a todos por la compañía!";
   }
 }, 1000);
 
